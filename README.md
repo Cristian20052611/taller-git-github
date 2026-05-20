@@ -6,7 +6,7 @@ Este repositorio fue creado como práctica de clase.
 
 ## Integrante
 
-- Tu nombre real aquí
+- Cristian Mariño
 
 ## Comandos aprendidos
 
